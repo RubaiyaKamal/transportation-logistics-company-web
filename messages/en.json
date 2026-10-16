@@ -296,19 +296,23 @@
       "items": {
         "tractor": {
           "title": "Tractor units",
-          "description": "Euro 6 tractor units with the latest safety systems for national and international haulage."
+          "description": "Euro 6 tractor units with the latest safety systems for national and international haulage.",
+          "imageAlt": "A Euro 6 tractor unit with a trailer on the motorway"
         },
         "trailer": {
           "title": "Trailers",
-          "description": "Curtainsiders, box trailers and reefers for dry, sensitive or temperature-controlled cargo."
+          "description": "Curtainsiders, box trailers and reefers for dry, sensitive or temperature-controlled cargo.",
+          "imageAlt": "A curtainsider trailer ready for distribution"
         },
         "rigid": {
           "title": "Rigid trucks",
-          "description": "Manoeuvrable rigids for city deliveries and regional distribution in the Benelux."
+          "description": "Manoeuvrable rigids for city deliveries and regional distribution in the Benelux.",
+          "imageAlt": "A manoeuvrable rigid truck for city deliveries"
         },
         "electric": {
           "title": "Electric vehicles",
-          "description": "Zero-emission trucks for urban deliveries and last-mile distribution."
+          "description": "Zero-emission trucks for urban deliveries and last-mile distribution.",
+          "imageAlt": "An electric truck for urban deliveries"
         }
       }
     },

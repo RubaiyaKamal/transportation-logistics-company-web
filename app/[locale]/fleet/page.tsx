@@ -4,7 +4,9 @@ import {
   Package,
   Truck,
   Zap,
+  type LucideIcon,
 } from "lucide-react";
+import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { CtaSection } from "@/components/layout/cta-section";
 import { PageHeader } from "@/components/layout/page-header";
@@ -12,12 +14,18 @@ import { Container } from "@/components/ui/container";
 import { Section, SectionHeading } from "@/components/ui/section";
 import { company } from "@/content/placeholders";
 
-const vehicleTypes = [
-  { id: "tractor", Icon: Truck },
-  { id: "trailer", Icon: ContainerIcon },
+type VehicleType = {
+  id: "tractor" | "trailer" | "rigid" | "electric";
+  Icon: LucideIcon;
+  image?: string;
+};
+
+const vehicleTypes: VehicleType[] = [
+  { id: "tractor", Icon: Truck, image: "/images/fleet/tractor-unit.png" },
+  { id: "trailer", Icon: ContainerIcon, image: "/images/fleet/trailer.png" },
   { id: "rigid", Icon: Package },
   { id: "electric", Icon: Zap },
-] as const;
+];
 
 export async function generateMetadata() {
   const t = await getTranslations("Fleet.hero");
@@ -64,20 +72,36 @@ export default async function FleetPage() {
             description={t("types.description")}
           />
           <div className="grid gap-6 sm:grid-cols-2">
-            {vehicleTypes.map(({ id, Icon }) => (
+            {vehicleTypes.map(({ id, Icon, image }) => (
               <div
                 key={id}
-                className="flex flex-col gap-3 rounded-card border border-border bg-surface p-6"
+                className="flex flex-col overflow-hidden rounded-card border border-border bg-surface"
               >
-                <span className="inline-flex size-12 items-center justify-center rounded-xl bg-brand-50 text-brand-600">
-                  <Icon className="size-6" aria-hidden />
-                </span>
-                <h3 className="text-lg font-semibold">
-                  {t(`types.items.${id}.title`)}
-                </h3>
-                <p className="text-sm text-body">
-                  {t(`types.items.${id}.description`)}
-                </p>
+                {image ? (
+                  <div className="relative aspect-[16/10] w-full bg-brand-100">
+                    <Image
+                      src={image}
+                      alt={t(`types.items.${id}.imageAlt`)}
+                      fill
+                      className="object-cover"
+                      sizes="(min-width: 640px) 50vw, 100vw"
+                    />
+                  </div>
+                ) : (
+                  <div className="px-6 pt-6">
+                    <span className="inline-flex size-12 items-center justify-center rounded-xl bg-brand-50 text-brand-600">
+                      <Icon className="size-6" aria-hidden />
+                    </span>
+                  </div>
+                )}
+                <div className="flex flex-col gap-3 p-6">
+                  <h3 className="text-lg font-semibold">
+                    {t(`types.items.${id}.title`)}
+                  </h3>
+                  <p className="text-sm text-body">
+                    {t(`types.items.${id}.description`)}
+                  </p>
+                </div>
               </div>
             ))}
           </div>

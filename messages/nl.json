@@ -296,19 +296,23 @@
       "items": {
         "tractor": {
           "title": "Trekker-opleggers",
-          "description": "Euro 6-trekkers met de nieuwste veiligheidssystemen voor nationaal en internationaal transport."
+          "description": "Euro 6-trekkers met de nieuwste veiligheidssystemen voor nationaal en internationaal transport.",
+          "imageAlt": "Een Euro 6-trekker met oplegger op de snelweg"
         },
         "trailer": {
           "title": "Opleggers",
-          "description": "Schuifzeil-, bak- en koelopleggers voor droge, gevoelige of temperatuurgecontroleerde lading."
+          "description": "Schuifzeil-, bak- en koelopleggers voor droge, gevoelige of temperatuurgecontroleerde lading.",
+          "imageAlt": "Een schuifzeiloplegger klaar voor distributie"
         },
         "rigid": {
           "title": "Vaste vrachtwagens",
-          "description": "Wendbare bakwagens voor stadsleveringen en regionale distributie in de Benelux."
+          "description": "Wendbare bakwagens voor stadsleveringen en regionale distributie in de Benelux.",
+          "imageAlt": "Een wendbare bakwagen voor stadsleveringen"
         },
         "electric": {
           "title": "Elektrische voertuigen",
-          "description": "Emissievrije vrachtwagens voor stedelijke leveringen en last-mile distributie."
+          "description": "Emissievrije vrachtwagens voor stedelijke leveringen en last-mile distributie.",
+          "imageAlt": "Een elektrische vrachtwagen voor stedelijke leveringen"
         }
       }
     },

@@ -296,19 +296,23 @@
       "items": {
         "tractor": {
           "title": "Tracteurs routiers",
-          "description": "Des tracteurs Euro 6 dotés des derniers systèmes de sécurité pour le transport national et international."
+          "description": "Des tracteurs Euro 6 dotés des derniers systèmes de sécurité pour le transport national et international.",
+          "imageAlt": "Un tracteur Euro 6 avec semi-remorque sur l'autoroute"
         },
         "trailer": {
           "title": "Semi-remorques",
-          "description": "Tautliners, fourgons et frigorifiques pour le fret sec, sensible ou sous température dirigée."
+          "description": "Tautliners, fourgons et frigorifiques pour le fret sec, sensible ou sous température dirigée.",
+          "imageAlt": "Une semi-remorque tautliner prête pour la distribution"
         },
         "rigid": {
           "title": "Camions porteurs",
-          "description": "Des porteurs maniables pour les livraisons en ville et la distribution régionale dans le Benelux."
+          "description": "Des porteurs maniables pour les livraisons en ville et la distribution régionale dans le Benelux.",
+          "imageAlt": "Un camion porteur maniable pour les livraisons urbaines"
         },
         "electric": {
           "title": "Véhicules électriques",
-          "description": "Des camions zéro émission pour les livraisons urbaines et la distribution du dernier kilomètre."
+          "description": "Des camions zéro émission pour les livraisons urbaines et la distribution du dernier kilomètre.",
+          "imageAlt": "Un camion électrique pour les livraisons urbaines"
         }
       }
     },
