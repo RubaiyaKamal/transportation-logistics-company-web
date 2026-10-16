@@ -426,6 +426,17 @@
       "After your go-ahead we plan the pickup and keep you informed."
     ]
   },
+  "NewsPage": {
+    "hero": {
+      "eyebrow": "News",
+      "title": "News & insights",
+      "description": "Tips, updates and news from our operations, fleet and customs team."
+    },
+    "readMore": "Read article",
+    "backToNews": "Back to news",
+    "readingTime": "{minutes} min read",
+    "empty": "No articles yet."
+  },
   "NotFoundPage": {
     "title": "Page not found",
     "description": "The page you are looking for doesn't exist or has been moved.",

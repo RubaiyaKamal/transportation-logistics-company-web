@@ -426,6 +426,17 @@
       "Après votre accord, nous planifions l'enlèvement et vous tenons informé."
     ]
   },
+  "NewsPage": {
+    "hero": {
+      "eyebrow": "Actualités",
+      "title": "Actualités & conseils",
+      "description": "Conseils, mises à jour et actualités de nos opérations, de notre flotte et de notre équipe douane."
+    },
+    "readMore": "Lire l'article",
+    "backToNews": "Retour aux actualités",
+    "readingTime": "{minutes} min de lecture",
+    "empty": "Pas encore d'articles."
+  },
   "NotFoundPage": {
     "title": "Page introuvable",
     "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
