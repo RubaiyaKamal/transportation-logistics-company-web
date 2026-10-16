@@ -4,8 +4,8 @@ import { buttonVariants } from "@/components/ui/button";
 import { Container } from "@/components/ui/container";
 import { Section } from "@/components/ui/section";
 
-export async function CtaBand() {
-  const t = await getTranslations("Home.cta");
+export async function CtaSection() {
+  const t = await getTranslations("Cta");
 
   return (
     <Section className="bg-brand-900">

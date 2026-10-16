@@ -60,6 +60,12 @@
   "A11y": {
     "skipToContent": "Skip to content"
   },
+  "Cta": {
+    "title": "Ready to ship?",
+    "description": "Request a free quote. You'll receive a tailored price within one business day.",
+    "primary": "Request a quote",
+    "secondary": "Call us"
+  },
   "Services": {
     "items": {
       "ftl": {
@@ -85,6 +91,62 @@
       "customs": {
         "title": "Customs & documentation",
         "summary": "AEO-certified customs clearance and CMR documents, fully handled."
+      }
+    },
+    "details": {
+      "ftl": {
+        "intro": "When your shipment fills a trailer, direct transport is the fastest and safest option. Your freight travels from door to door without any transshipment.",
+        "features": [
+          "Full and partial trailer loads",
+          "Direct door-to-door transport",
+          "Loading, lashing and securing by our team",
+          "Real-time status updates"
+        ]
+      },
+      "ltl": {
+        "intro": "Smaller shipments travel together in our groupage network, so you only pay for the space you actually use.",
+        "features": [
+          "Several shipments combined efficiently",
+          "Cost-effective for smaller loads",
+          "Scheduled departures across the Benelux",
+          "Full tracking per shipment"
+        ]
+      },
+      "distribution": {
+        "intro": "Daily fixed routes keep your shelves stocked across Belgium, the Netherlands and Luxembourg.",
+        "features": [
+          "Fixed daily routes",
+          "Delivery before 10:00 on request",
+          "Return loads and empty packaging",
+          "Proof of delivery with every stop"
+        ]
+      },
+      "international": {
+        "intro": "We move freight to France, Germany and the rest of Europe with experienced drivers and full tracking.",
+        "features": [
+          "Coverage of more than 25 countries",
+          "CMR documentation included",
+          "Multilingual drivers",
+          "Customs-ready transport"
+        ]
+      },
+      "warehousing": {
+        "intro": "Short- or long-term storage with value-added distribution services at our sites near Antwerp and Leuven.",
+        "features": [
+          "Flexible short- and long-term storage",
+          "Cross-docking and transhipment",
+          "Inventory and stock management",
+          "Pick, pack and label services"
+        ]
+      },
+      "customs": {
+        "intro": "Customs and paperwork are handled by an AEO-certified team, so your freight keeps moving across borders.",
+        "features": [
+          "AEO-certified customs agent",
+          "Import and export declarations",
+          "CMR and T-documents",
+          "Advice on duties and regulations"
+        ]
       }
     }
   },
@@ -145,13 +207,164 @@
         "Southern Europe"
       ],
       "cta": "See our coverage"
-    },
-    "cta": {
-      "title": "Ready to ship?",
-      "description": "Request a free quote. You'll receive a tailored price within one business day.",
-      "primary": "Request a quote",
-      "secondary": "Call us"
     }
+  },
+  "About": {
+    "hero": {
+      "eyebrow": "About us",
+      "title": "Your logistics partner in Antwerp since 2004",
+      "description": "Scaldis Logistics grew from a single truck into a full-service transport and logistics company serving Belgium and all of Europe."
+    },
+    "story": {
+      "title": "From one truck to a modern fleet",
+      "p1": "Scaldis Logistics started in 2004 with a single truck and one clear promise: deliver on time, every time. Today a team of 120 people and 85 vehicles keeps goods moving across Belgium and Europe.",
+      "p2": "We are based in the Port of Antwerp — the gateway to Europe — with a second depot in Leuven. That location lets us combine fast regional distribution with efficient international transport."
+    },
+    "facts": {
+      "founded": "Founded",
+      "employees": "Employees",
+      "trucks": "Trucks",
+      "countries": "Countries served"
+    },
+    "values": {
+      "title": "What we stand for",
+      "items": {
+        "reliability": {
+          "title": "Reliability",
+          "description": "Appointments are kept. Your freight arrives when we say it will."
+        },
+        "safety": {
+          "title": "Safety first",
+          "description": "Our drivers are trained, our fleet is maintained and every load is secured."
+        },
+        "sustainability": {
+          "title": "Sustainability",
+          "description": "Euro 6 as standard and a growing electric fleet lower our footprint every year."
+        },
+        "partnership": {
+          "title": "Partnership",
+          "description": "We think along with you and grow with your business."
+        }
+      }
+    }
+  },
+  "ServicesPage": {
+    "hero": {
+      "eyebrow": "Our services",
+      "title": "Every shipment, one partner",
+      "description": "From a single pallet to full loads and warehouse management, we cover the entire chain."
+    },
+    "process": {
+      "eyebrow": "How we work",
+      "title": "From request to delivery",
+      "description": "One clear process, one dedicated contact — from the first quote to the final delivery.",
+      "steps": {
+        "request": {
+          "title": "Request",
+          "description": "Tell us what you need to ship and we prepare a tailored quote."
+        },
+        "plan": {
+          "title": "Plan",
+          "description": "We choose the right vehicle, route and timing for your freight."
+        },
+        "drive": {
+          "title": "Drive",
+          "description": "Your goods are loaded, secured and tracked along the way."
+        },
+        "deliver": {
+          "title": "Deliver",
+          "description": "We deliver on time and send proof of delivery right away."
+        }
+      }
+    }
+  },
+  "Fleet": {
+    "hero": {
+      "eyebrow": "Our fleet",
+      "title": "Built for reliability",
+      "description": "85 vehicles, Euro 6 and a growing electric share — maintained in-house and driven by trained professionals."
+    },
+    "stats": {
+      "trucks": "Trucks",
+      "trailers": "Trailers",
+      "electric": "Electric vehicles",
+      "depots": "Depots"
+    },
+    "types": {
+      "title": "Vehicles for every job",
+      "description": "Whatever the cargo, we have the right combination of vehicle and equipment.",
+      "items": {
+        "tractor": {
+          "title": "Tractor units",
+          "description": "Euro 6 tractor units with the latest safety systems for national and international haulage."
+        },
+        "trailer": {
+          "title": "Trailers",
+          "description": "Curtainsiders, box trailers and reefers for dry, sensitive or temperature-controlled cargo."
+        },
+        "rigid": {
+          "title": "Rigid trucks",
+          "description": "Manoeuvrable rigids for city deliveries and regional distribution in the Benelux."
+        },
+        "electric": {
+          "title": "Electric vehicles",
+          "description": "Zero-emission trucks for urban deliveries and last-mile distribution."
+        }
+      }
+    },
+    "sustainability": {
+      "title": "Greener every year",
+      "description": "We invest in cleaner transport: newer Euro 6 vehicles, smarter planning and an expanding electric fleet.",
+      "points": [
+        "Euro 6 as standard",
+        "6 electric vehicles today",
+        "Route optimisation to cut empty kilometres",
+        "ISO 14001 certified environmental management"
+      ]
+    }
+  },
+  "Team": {
+    "hero": {
+      "eyebrow": "Our team",
+      "title": "People who keep your freight moving",
+      "description": "Behind every on-time delivery is a team of drivers, planners and support staff who know your business."
+    },
+    "intro": "We are 120 colleagues strong. Whatever you ship, you always have one dedicated contact who knows your freight and your preferences.",
+    "roles": {
+      "managingDirector": "Managing Director",
+      "operationsManager": "Operations Manager",
+      "dispatchLead": "Dispatch Lead",
+      "fleetManager": "Fleet Manager"
+    }
+  },
+  "Coverage": {
+    "hero": {
+      "eyebrow": "Coverage",
+      "title": "Where we drive",
+      "description": "From our depots in Antwerp and Leuven we serve all of Belgium, the Benelux and most of Europe."
+    },
+    "regions": {
+      "title": "Countries and regions we serve",
+      "description": "Fixed routes and regular departures across Western and Central Europe.",
+      "items": [
+        "Belgium",
+        "Netherlands",
+        "Luxembourg",
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Italy",
+        "Spain",
+        "Poland",
+        "Czech Republic"
+      ]
+    },
+    "depots": {
+      "title": "Our depots",
+      "primaryTitle": "Antwerp — headquarters",
+      "secondaryTitle": "Leuven — second depot"
+    },
+    "mapNote": "Interactive coverage map — available on request."
   },
   "NotFoundPage": {
     "title": "Page not found",

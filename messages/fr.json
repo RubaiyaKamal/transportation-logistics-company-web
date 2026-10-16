@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "title": "Scaldis Logistics — Transport de marchandises fiable en Belgique et en Europe",
-    "description": "Entreprise de transport et de logistique à Anvers. Transport routier FTL et LTL, distribution Benelux et transport international dans toute l'Europe. Demandez un devis sans engagement."
+    "description": "Entreprise de transport et logistique à Anvers. Transport routier FTL et LTL, distribution Benelux et transport international dans toute l'Europe. Demandez un devis gratuit."
   },
   "Nav": {
     "home": "Accueil",
@@ -60,6 +60,12 @@
   "A11y": {
     "skipToContent": "Aller au contenu"
   },
+  "Cta": {
+    "title": "Prêt à expédier ?",
+    "description": "Demandez un devis sans engagement. Vous recevez un prix sur mesure sous un jour ouvrable.",
+    "primary": "Demander un devis",
+    "secondary": "Appelez-nous"
+  },
   "Services": {
     "items": {
       "ftl": {
@@ -76,7 +82,7 @@
       },
       "international": {
         "title": "Transport international",
-        "summary": "Des camions vers la France, l'Allemagne et toute l'Europe, avec suivi complet."
+        "summary": "Des camions vers la France, l'Allemagne et toute l'Europe, avec un suivi complet."
       },
       "warehousing": {
         "title": "Entreposage & distribution",
@@ -86,16 +92,72 @@
         "title": "Douane & documents",
         "summary": "Dédouanement certifié AEO et documents CMR, entièrement gérés."
       }
+    },
+    "details": {
+      "ftl": {
+        "intro": "Quand votre envoi remplit une semi-remorque, le transport direct est l'option la plus rapide et la plus sûre. Vos marchandises voyagent de porte à porte, sans transbordement.",
+        "features": [
+          "Semi-remorques complètes et partielles",
+          "Transport direct de porte à porte",
+          "Chargement, arrimage et sécurisation par notre équipe",
+          "Mises à jour de statut en temps réel"
+        ]
+      },
+      "ltl": {
+        "intro": "Les envois plus petits voyagent ensemble dans notre réseau de groupage : vous ne payez que l'espace réellement utilisé.",
+        "features": [
+          "Plusieurs envois combinés efficacement",
+          "Rentable pour les volumes plus faibles",
+          "Départs réguliers dans le Benelux",
+          "Suivi complet par envoi"
+        ]
+      },
+      "distribution": {
+        "intro": "Des tournées fixes quotidiennes maintiennent vos rayons approvisionnés en Belgique, aux Pays-Bas et au Luxembourg.",
+        "features": [
+          "Tournées quotidiennes fixes",
+          "Livraison avant 10 h 00 sur demande",
+          "Retours et emballages vides",
+          "Preuve de livraison à chaque arrêt"
+        ]
+      },
+      "international": {
+        "intro": "Nous transportons vos marchandises vers la France, l'Allemagne et le reste de l'Europe avec des chauffeurs expérimentés et un suivi complet.",
+        "features": [
+          "Couverture de plus de 25 pays",
+          "Documents CMR inclus",
+          "Chauffeurs multilingues",
+          "Transport prêt pour la douane"
+        ]
+      },
+      "warehousing": {
+        "intro": "Stockage à court ou long terme avec des services de distribution à valeur ajoutée sur nos sites près d'Anvers et de Louvain.",
+        "features": [
+          "Stockage flexible à court et long terme",
+          "Cross-docking et transbordement",
+          "Gestion des stocks et des inventaires",
+          "Services de préparation, emballage et étiquetage"
+        ]
+      },
+      "customs": {
+        "intro": "La douane et les formalités sont gérées par une équipe certifiée AEO, pour que vos marchandises continuent de franchir les frontières.",
+        "features": [
+          "Agent en douane certifié AEO",
+          "Déclarations d'importation et d'exportation",
+          "Documents CMR et T",
+          "Conseils sur les droits et la réglementation"
+        ]
+      }
     }
   },
   "Home": {
     "hero": {
       "eyebrow": "Transport & logistique depuis 2004",
-      "title": "Transport de marchandises fiable, en Belgique et en Europe.",
+      "title": "Transport de marchandises fiable, en Belgique et partout en Europe.",
       "subtitle": "Du transport routier FTL et LTL à la distribution Benelux et au transport international : nous faisons circuler vos marchandises, avec 85 camions et 20 ans d'expérience.",
       "primaryCta": "Demander un devis",
       "secondaryCta": "Nos services",
-      "trust": "La confiance de plus de 200 entreprises depuis 20 ans."
+      "trust": "La confiance de plus de 200 entreprises depuis plus de 20 ans."
     },
     "stats": {
       "years": "Ans d'expérience",
@@ -112,7 +174,7 @@
     "why": {
       "eyebrow": "Pourquoi Scaldis Logistics",
       "title": "Fiable, réactif et toujours à l'heure",
-      "description": "Nous associons une flotte moderne à un service personnalisé. Vous parlez toujours à un interlocuteur fixe.",
+      "description": "Nous associons une flotte moderne à un service personnalisé. Vous parlez toujours à un interlocuteur dédié.",
       "items": {
         "punctual": {
           "title": "98 % livrés à l'heure",
@@ -120,7 +182,7 @@
         },
         "coverage": {
           "title": "Toute l'Europe",
-          "description": "Des tournées fixes au Benelux et des camions vers plus de 25 pays."
+          "description": "Des tournées fixes dans le Benelux et des camions vers plus de 25 pays."
         },
         "fleet": {
           "title": "Flotte moderne",
@@ -135,7 +197,7 @@
     "coverage": {
       "eyebrow": "Notre couverture",
       "title": "D'Anvers vers toute l'Europe",
-      "description": "Notre base se situe dans le port d'Anvers, avec un second dépôt à Louvain. De là, nous roulons chaque jour dans le Benelux et vers le sud, l'est et l'ouest de l'Europe.",
+      "description": "Nous sommes basés dans le port d'Anvers, avec un second dépôt à Louvain. De là, nous roulons chaque jour dans le Benelux et vers le sud, l'est et l'ouest de l'Europe.",
       "regions": [
         "Benelux",
         "France",
@@ -145,13 +207,164 @@
         "Europe du Sud"
       ],
       "cta": "Voir notre couverture"
-    },
-    "cta": {
-      "title": "Prêt à expédier ?",
-      "description": "Demandez un devis sans engagement. Vous recevez un prix sur mesure sous un jour ouvrable.",
-      "primary": "Demander un devis",
-      "secondary": "Appelez-nous"
     }
+  },
+  "About": {
+    "hero": {
+      "eyebrow": "À propos",
+      "title": "Votre partenaire logistique à Anvers depuis 2004",
+      "description": "Scaldis Logistics est passée d'un seul camion à une entreprise de transport et de logistique à part entière au service de la Belgique et de toute l'Europe."
+    },
+    "story": {
+      "title": "D'un seul camion à une flotte moderne",
+      "p1": "Scaldis Logistics a démarré en 2004 avec un seul camion et une promesse claire : livrer à l'heure, toujours. Aujourd'hui, une équipe de 120 personnes et 85 véhicules font circuler les marchandises en Belgique et en Europe.",
+      "p2": "Nous sommes établis dans le port d'Anvers — la porte d'entrée de l'Europe — avec un second dépôt à Louvain. Cette implantation nous permet d'associer une distribution régionale rapide à un transport international efficace."
+    },
+    "facts": {
+      "founded": "Fondée en",
+      "employees": "Collaborateurs",
+      "trucks": "Camions",
+      "countries": "Pays desservis"
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "items": {
+        "reliability": {
+          "title": "Fiabilité",
+          "description": "Les rendez-vous sont respectés. Vos marchandises arrivent quand nous l'annonçons."
+        },
+        "safety": {
+          "title": "La sécurité d'abord",
+          "description": "Nos chauffeurs sont formés, notre flotte est entretenue et chaque chargement est sécurisé."
+        },
+        "sustainability": {
+          "title": "Durabilité",
+          "description": "Euro 6 de série et une flotte électrique croissante réduisent notre empreinte chaque année."
+        },
+        "partnership": {
+          "title": "Partenariat",
+          "description": "Nous réfléchissons avec vous et grandissons avec votre activité."
+        }
+      }
+    }
+  },
+  "ServicesPage": {
+    "hero": {
+      "eyebrow": "Nos services",
+      "title": "Chaque envoi, un seul partenaire",
+      "description": "D'une simple palette aux chargements complets et à la gestion d'entrepôt, nous couvrons toute la chaîne."
+    },
+    "process": {
+      "eyebrow": "Comment nous travaillons",
+      "title": "De la demande à la livraison",
+      "description": "Un processus clair, un interlocuteur dédié — du premier devis à la livraison finale.",
+      "steps": {
+        "request": {
+          "title": "Demande",
+          "description": "Dites-nous ce que vous devez expédier et nous préparons un devis sur mesure."
+        },
+        "plan": {
+          "title": "Planification",
+          "description": "Nous choisissons le bon véhicule, l'itinéraire et le moment pour votre fret."
+        },
+        "drive": {
+          "title": "Transport",
+          "description": "Vos marchandises sont chargées, sécurisées et suivies en route."
+        },
+        "deliver": {
+          "title": "Livraison",
+          "description": "Nous livrons à l'heure et envoyons immédiatement la preuve de livraison."
+        }
+      }
+    }
+  },
+  "Fleet": {
+    "hero": {
+      "eyebrow": "Notre flotte",
+      "title": "Conçue pour la fiabilité",
+      "description": "85 véhicules, Euro 6 et une part croissante d'électrique — entretenus en interne et conduits par des professionnels formés."
+    },
+    "stats": {
+      "trucks": "Camions",
+      "trailers": "Semi-remorques",
+      "electric": "Véhicules électriques",
+      "depots": "Dépôts"
+    },
+    "types": {
+      "title": "Des véhicules pour chaque mission",
+      "description": "Quelle que soit la marchandise, nous avons la bonne combinaison de véhicule et d'équipement.",
+      "items": {
+        "tractor": {
+          "title": "Tracteurs routiers",
+          "description": "Des tracteurs Euro 6 dotés des derniers systèmes de sécurité pour le transport national et international."
+        },
+        "trailer": {
+          "title": "Semi-remorques",
+          "description": "Tautliners, fourgons et frigorifiques pour le fret sec, sensible ou sous température dirigée."
+        },
+        "rigid": {
+          "title": "Camions porteurs",
+          "description": "Des porteurs maniables pour les livraisons en ville et la distribution régionale dans le Benelux."
+        },
+        "electric": {
+          "title": "Véhicules électriques",
+          "description": "Des camions zéro émission pour les livraisons urbaines et la distribution du dernier kilomètre."
+        }
+      }
+    },
+    "sustainability": {
+      "title": "Plus verts chaque année",
+      "description": "Nous investissons dans un transport plus propre : des véhicules Euro 6 plus récents, une planification plus intelligente et une flotte électrique en expansion.",
+      "points": [
+        "Euro 6 de série",
+        "6 véhicules électriques aujourd'hui",
+        "Optimisation des itinéraires pour réduire les kilomètres à vide",
+        "Gestion environnementale certifiée ISO 14001"
+      ]
+    }
+  },
+  "Team": {
+    "hero": {
+      "eyebrow": "Notre équipe",
+      "title": "Des personnes qui font circuler vos marchandises",
+      "description": "Derrière chaque livraison à l'heure se trouve une équipe de chauffeurs, de planificateurs et de collaborateurs qui connaissent votre activité."
+    },
+    "intro": "Nous sommes 120 collègues. Quoi que vous expédiiez, vous avez toujours un interlocuteur dédié qui connaît vos marchandises et vos préférences.",
+    "roles": {
+      "managingDirector": "Directeur général",
+      "operationsManager": "Responsable des opérations",
+      "dispatchLead": "Responsable dispatching",
+      "fleetManager": "Gestionnaire de parc"
+    }
+  },
+  "Coverage": {
+    "hero": {
+      "eyebrow": "Couverture",
+      "title": "Où nous roulons",
+      "description": "Depuis nos dépôts d'Anvers et de Louvain, nous desservons toute la Belgique, le Benelux et la majeure partie de l'Europe."
+    },
+    "regions": {
+      "title": "Pays et régions desservis",
+      "description": "Des tournées fixes et des départs réguliers en Europe de l'Ouest et centrale.",
+      "items": [
+        "Belgique",
+        "Pays-Bas",
+        "Luxembourg",
+        "France",
+        "Allemagne",
+        "Royaume-Uni",
+        "Italie",
+        "Espagne",
+        "Pologne",
+        "Tchéquie"
+      ]
+    },
+    "depots": {
+      "title": "Nos dépôts",
+      "primaryTitle": "Anvers — siège social",
+      "secondaryTitle": "Louvain — second dépôt"
+    },
+    "mapNote": "Carte interactive de notre couverture — disponible sur demande."
   },
   "NotFoundPage": {
     "title": "Page introuvable",

@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "title": "Scaldis Logistics — Betrouwbaar vrachtvervoer in België en Europa",
-    "description": "Transport- en logistiekbedrijf in Antwerpen. FTL- en LTL-vrachtvervoer, Benelux-distributie en internationaal transport in heel Europa. Vraag vrijblijvend een offerte aan."
+    "description": "Transport- en logistiekbedrijf in Antwerpen. FTL- en LTL-vrachtvervoer, distributie in de Benelux en internationaal transport in heel Europa. Vraag vrijblijvend een offerte aan."
   },
   "Nav": {
     "home": "Home",
@@ -52,23 +52,29 @@
   },
   "CookieConsent": {
     "title": "Wij gebruiken cookies",
-    "description": "We gebruiken cookies om het verkeer te analyseren en uw ervaring te verbeteren. U kunt niet-essentiële cookies accepteren of weigeren.",
+    "description": "Wij gebruiken cookies om het verkeer te analyseren en uw ervaring te verbeteren. U kunt niet-essentiële cookies accepteren of weigeren.",
     "accept": "Alles accepteren",
     "decline": "Weigeren",
     "privacy": "Privacybeleid"
   },
   "A11y": {
-    "skipToContent": "Naar de inhoud springen"
+    "skipToContent": "Ga naar de inhoud"
+  },
+  "Cta": {
+    "title": "Klaar om te verzenden?",
+    "description": "Vraag vrijblijvend een offerte aan. Binnen één werkdag ontvangt u een prijs op maat.",
+    "primary": "Offerte aanvragen",
+    "secondary": "Bel ons"
   },
   "Services": {
     "items": {
       "ftl": {
         "title": "Volledige lading (FTL)",
-        "summary": "Uw volledige lading van deur tot deur, rechtstreeks en zonder overladen."
+        "summary": "Uw volledige lading van deur tot deur, direct en zonder overslag."
       },
       "ltl": {
         "title": "Groepage (LTL)",
-        "summary": "Deelzendingen die slim gecombineerd worden voor een scherpe prijs."
+        "summary": "Deelladingen slim gecombineerd voor een scherpe prijs."
       },
       "distribution": {
         "title": "Benelux-distributie",
@@ -80,22 +86,78 @@
       },
       "warehousing": {
         "title": "Opslag & distributie",
-        "summary": "Tijdelijke opslag, cross-docking en voorraadbeheer op onze locaties."
+        "summary": "Tijdelijke opslag, cross-docking en voorraadbeheer op onze sites."
       },
       "customs": {
-        "title": "Douane & documentatie",
+        "title": "Douane & documenten",
         "summary": "AEO-gecertificeerde douaneafhandeling en CMR-documenten, volledig geregeld."
+      }
+    },
+    "details": {
+      "ftl": {
+        "intro": "Wanneer uw zending een volledige oplegger vult, is direct transport de snelste en veiligste optie. Uw goederen reizen van deur tot deur, zonder transbordement.",
+        "features": [
+          "Volledige en gedeeltelijke opleggers",
+          "Direct transport van deur tot deur",
+          "Laden, sjorren en zekeren door ons team",
+          "Realtime statusupdates"
+        ]
+      },
+      "ltl": {
+        "intro": "Kleinere zendingen reizen samen in ons groupagenetwerk, zodat u enkel betaalt voor de ruimte die u echt gebruikt.",
+        "features": [
+          "Meerdere zendingen efficiënt gecombineerd",
+          "Kostenefficiënt voor kleinere volumes",
+          "Vaste afvaarten in de Benelux",
+          "Volledige tracking per zending"
+        ]
+      },
+      "distribution": {
+        "intro": "Dagelijkse vaste routes houden uw rekken gevuld in België, Nederland en Luxemburg.",
+        "features": [
+          "Vaste dagelijkse routes",
+          "Levering vóór 10.00 uur op aanvraag",
+          "Retourladingen en lege verpakking",
+          "Bewijs van levering bij elke stop"
+        ]
+      },
+      "international": {
+        "intro": "Wij vervoeren goederen naar Frankrijk, Duitsland en de rest van Europa met ervaren chauffeurs en volledige tracking.",
+        "features": [
+          "Dekking in meer dan 25 landen",
+          "CMR-documenten inbegrepen",
+          "Meertalige chauffeurs",
+          "Douanevriendelijk transport"
+        ]
+      },
+      "warehousing": {
+        "intro": "Opslag voor korte of lange termijn met waardevolle distributiediensten op onze sites bij Antwerpen en Leuven.",
+        "features": [
+          "Flexibele opslag voor korte en lange termijn",
+          "Cross-docking en transbordement",
+          "Voorraad- en stockbeheer",
+          "Pick-, pack- en labeldiensten"
+        ]
+      },
+      "customs": {
+        "intro": "Douane en administratie worden afgehandeld door een AEO-gecertificeerd team, zodat uw goederen de grens blijven passeren.",
+        "features": [
+          "AEO-gecertificeerd douanekantoor",
+          "Invoer- en uitvoeraangiften",
+          "CMR- en T-documenten",
+          "Advies over rechten en regelgeving"
+        ]
       }
     }
   },
   "Home": {
     "hero": {
       "eyebrow": "Transport & logistiek sinds 2004",
-      "title": "Betrouwbaar vrachtvervoer, in heel België en Europa.",
-      "subtitle": "Van FTL- en LTL-vrachtvervoer tot Benelux-distributie en internationaal transport: wij houden uw goederen in beweging, met 85 vrachtwagens en 20 jaar ervaring.",
+      "title": "Betrouwbaar transport, in België en heel Europa.",
+      "subtitle": "Van FTL- en LTL-vrachtvervoer tot distributie in de Benelux en internationaal transport: wij houden uw goederen in beweging, met 85 vrachtwagens en 20 jaar ervaring.",
       "primaryCta": "Offerte aanvragen",
       "secondaryCta": "Onze diensten",
-      "trust": "Al 20 jaar vertrouwd door meer dan 200 bedrijven."
+      "trust": "Al meer dan 20 jaar het vertrouwen van 200+ bedrijven."
     },
     "stats": {
       "years": "Jaar ervaring",
@@ -106,7 +168,7 @@
     "services": {
       "eyebrow": "Onze diensten",
       "title": "Transport en logistiek onder één dak",
-      "description": "Van een enkele pallet tot volledige ladingen en magazijnbeheer: wij zorgen voor een oplossing op maat voor elke zending.",
+      "description": "Van één pallet tot volledige ladingen en magazijnbeheer: voor elke zending zoeken wij een oplossing op maat.",
       "cta": "Alle diensten bekijken"
     },
     "why": {
@@ -116,7 +178,7 @@
       "items": {
         "punctual": {
           "title": "98% op tijd geleverd",
-          "description": "Strakke planning en realtime tracking houden uw leveringen voorspelbaar."
+          "description": "Strakke planning en realtime tracking maken uw leveringen voorspelbaar."
         },
         "coverage": {
           "title": "Heel Europa",
@@ -128,30 +190,181 @@
         },
         "support": {
           "title": "Persoonlijke service",
-          "description": "Een vast aanspreekpunt en een dispatchlijn die 24/7 bereikbaar is."
+          "description": "Een vaste contactpersoon en een dispatchinglijn die 24/7 bereikbaar is."
         }
       }
     },
     "coverage": {
       "eyebrow": "Ons werkgebied",
       "title": "Van Antwerpen naar heel Europa",
-      "description": "Onze thuisbasis ligt in de haven van Antwerpen, met een tweede depot in Leuven. Van daaruit rijden we dagelijks door de Benelux en naar het zuiden, oosten en westen van Europa.",
+      "description": "Wij zijn gevestigd in de haven van Antwerpen, met een tweede depot in Leuven. Van daaruit rijden wij dagelijks door de Benelux en naar Zuid-, Oost- en West-Europa.",
       "regions": [
         "Benelux",
         "Frankrijk",
         "Duitsland",
         "Verenigd Koninkrijk",
-        "Midden-Europa",
+        "Centraal-Europa",
         "Zuid-Europa"
       ],
       "cta": "Bekijk ons werkgebied"
-    },
-    "cta": {
-      "title": "Klaar om te verzenden?",
-      "description": "Vraag vrijblijvend een offerte aan. Binnen één werkdag ontvangt u een prijs op maat.",
-      "primary": "Offerte aanvragen",
-      "secondary": "Bel ons"
     }
+  },
+  "About": {
+    "hero": {
+      "eyebrow": "Over ons",
+      "title": "Uw logistieke partner in Antwerpen sinds 2004",
+      "description": "Scaldis Logistics groeide van één vrachtwagen tot een full-service transport- en logistiekbedrijf voor België en heel Europa."
+    },
+    "story": {
+      "title": "Van één vrachtwagen naar een modern wagenpark",
+      "p1": "Scaldis Logistics startte in 2004 met één vrachtwagen en één duidelijke belofte: altijd op tijd leveren. Vandaag houden 120 mensen en 85 voertuigen goederen in beweging in België en Europa.",
+      "p2": "Wij zijn gevestigd in de haven van Antwerpen — de toegangspoort tot Europa — met een tweede depot in Leuven. Die locatie laat ons snelle regionale distributie combineren met efficiënt internationaal transport."
+    },
+    "facts": {
+      "founded": "Opgericht",
+      "employees": "Medewerkers",
+      "trucks": "Vrachtwagens",
+      "countries": "Bediende landen"
+    },
+    "values": {
+      "title": "Waar wij voor staan",
+      "items": {
+        "reliability": {
+          "title": "Betrouwbaarheid",
+          "description": "Afspraken worden nagekomen. Uw goederen komen aan wanneer wij zeggen."
+        },
+        "safety": {
+          "title": "Veiligheid voorop",
+          "description": "Onze chauffeurs zijn opgeleid, ons wagenpark is onderhouden en elke lading is gezekerd."
+        },
+        "sustainability": {
+          "title": "Duurzaamheid",
+          "description": "Euro 6 als standaard en een groeiend elektrisch wagenpark verlagen elk jaar onze voetafdruk."
+        },
+        "partnership": {
+          "title": "Partnerschap",
+          "description": "Wij denken met u mee en groeien mee met uw activiteiten."
+        }
+      }
+    }
+  },
+  "ServicesPage": {
+    "hero": {
+      "eyebrow": "Onze diensten",
+      "title": "Elke zending, één partner",
+      "description": "Van één pallet tot volledige ladingen en magazijnbeheer: wij dekken de volledige keten."
+    },
+    "process": {
+      "eyebrow": "Hoe wij werken",
+      "title": "Van aanvraag tot levering",
+      "description": "Eén helder proces, één vaste contactpersoon — van de eerste offerte tot de uiteindelijke levering.",
+      "steps": {
+        "request": {
+          "title": "Aanvraag",
+          "description": "Vertel ons wat u wilt verzenden en wij maken een offerte op maat."
+        },
+        "plan": {
+          "title": "Planning",
+          "description": "Wij kiezen het juiste voertuig, de route en het tijdstip voor uw goederen."
+        },
+        "drive": {
+          "title": "Transport",
+          "description": "Uw goederen worden geladen, gezekerd en onderweg gevolgd."
+        },
+        "deliver": {
+          "title": "Levering",
+          "description": "Wij leveren op tijd en sturen meteen het bewijs van levering."
+        }
+      }
+    }
+  },
+  "Fleet": {
+    "hero": {
+      "eyebrow": "Ons wagenpark",
+      "title": "Gebouwd op betrouwbaarheid",
+      "description": "85 voertuigen, Euro 6 en een groeiend aandeel elektrisch — in eigen huis onderhouden en bestuurd door opgeleide professionals."
+    },
+    "stats": {
+      "trucks": "Vrachtwagens",
+      "trailers": "Opleggers",
+      "electric": "Elektrische voertuigen",
+      "depots": "Depots"
+    },
+    "types": {
+      "title": "Voertuigen voor elke opdracht",
+      "description": "Wat de lading ook is, wij hebben de juiste combinatie van voertuig en uitrusting.",
+      "items": {
+        "tractor": {
+          "title": "Trekker-opleggers",
+          "description": "Euro 6-trekkers met de nieuwste veiligheidssystemen voor nationaal en internationaal transport."
+        },
+        "trailer": {
+          "title": "Opleggers",
+          "description": "Schuifzeil-, bak- en koelopleggers voor droge, gevoelige of temperatuurgecontroleerde lading."
+        },
+        "rigid": {
+          "title": "Vaste vrachtwagens",
+          "description": "Wendbare bakwagens voor stadsleveringen en regionale distributie in de Benelux."
+        },
+        "electric": {
+          "title": "Elektrische voertuigen",
+          "description": "Emissievrije vrachtwagens voor stedelijke leveringen en last-mile distributie."
+        }
+      }
+    },
+    "sustainability": {
+      "title": "Elk jaar groener",
+      "description": "Wij investeren in schoner transport: nieuwere Euro 6-voertuigen, slimmere planning en een groeiend elektrisch wagenpark.",
+      "points": [
+        "Euro 6 als standaard",
+        "Vandaag 6 elektrische voertuigen",
+        "Routeoptimalisatie om lege kilometers te beperken",
+        "ISO 14001-gecertificeerd milieubeheer"
+      ]
+    }
+  },
+  "Team": {
+    "hero": {
+      "eyebrow": "Ons team",
+      "title": "Mensen die uw goederen in beweging houden",
+      "description": "Achter elke levering op tijd staat een team van chauffeurs, planners en medewerkers die uw bedrijf kennen."
+    },
+    "intro": "Wij zijn met 120 collega's. Wat u ook verzendt, u heeft altijd één vaste contactpersoon die uw goederen en uw voorkeuren kent.",
+    "roles": {
+      "managingDirector": "Algemeen directeur",
+      "operationsManager": "Operationeel manager",
+      "dispatchLead": "Verantwoordelijke dispatching",
+      "fleetManager": "Vlootbeheerder"
+    }
+  },
+  "Coverage": {
+    "hero": {
+      "eyebrow": "Werkgebied",
+      "title": "Waar wij rijden",
+      "description": "Vanuit onze depots in Antwerpen en Leuven bedienen wij heel België, de Benelux en het grootste deel van Europa."
+    },
+    "regions": {
+      "title": "Landen en regio's die wij bedienen",
+      "description": "Vaste routes en regelmatige afvaarten in West- en Centraal-Europa.",
+      "items": [
+        "België",
+        "Nederland",
+        "Luxemburg",
+        "Frankrijk",
+        "Duitsland",
+        "Verenigd Koninkrijk",
+        "Italië",
+        "Spanje",
+        "Polen",
+        "Tsjechië"
+      ]
+    },
+    "depots": {
+      "title": "Onze depots",
+      "primaryTitle": "Antwerpen — hoofdvestiging",
+      "secondaryTitle": "Leuven — tweede depot"
+    },
+    "mapNote": "Interactieve kaart van ons werkgebied — beschikbaar op aanvraag."
   },
   "NotFoundPage": {
     "title": "Pagina niet gevonden",
