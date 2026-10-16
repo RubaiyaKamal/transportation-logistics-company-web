@@ -60,19 +60,97 @@
   "A11y": {
     "skipToContent": "Naar de inhoud springen"
   },
+  "Services": {
+    "items": {
+      "ftl": {
+        "title": "Volledige lading (FTL)",
+        "summary": "Uw volledige lading van deur tot deur, rechtstreeks en zonder overladen."
+      },
+      "ltl": {
+        "title": "Groepage (LTL)",
+        "summary": "Deelzendingen die slim gecombineerd worden voor een scherpe prijs."
+      },
+      "distribution": {
+        "title": "Benelux-distributie",
+        "summary": "Vaste routes en dagelijkse leveringen in België, Nederland en Luxemburg."
+      },
+      "international": {
+        "title": "Internationaal transport",
+        "summary": "Vrachtwagens naar Frankrijk, Duitsland en heel Europa, met volledige tracking."
+      },
+      "warehousing": {
+        "title": "Opslag & distributie",
+        "summary": "Tijdelijke opslag, cross-docking en voorraadbeheer op onze locaties."
+      },
+      "customs": {
+        "title": "Douane & documentatie",
+        "summary": "AEO-gecertificeerde douaneafhandeling en CMR-documenten, volledig geregeld."
+      }
+    }
+  },
   "Home": {
     "hero": {
       "eyebrow": "Transport & logistiek sinds 2004",
       "title": "Betrouwbaar vrachtvervoer, in heel België en Europa.",
       "subtitle": "Van FTL- en LTL-vrachtvervoer tot Benelux-distributie en internationaal transport: wij houden uw goederen in beweging, met 85 vrachtwagens en 20 jaar ervaring.",
       "primaryCta": "Offerte aanvragen",
-      "secondaryCta": "Onze diensten"
+      "secondaryCta": "Onze diensten",
+      "trust": "Al 20 jaar vertrouwd door meer dan 200 bedrijven."
     },
     "stats": {
       "years": "Jaar ervaring",
       "trucks": "Vrachtwagens",
       "countries": "Landen",
       "onTime": "Op tijd geleverd"
+    },
+    "services": {
+      "eyebrow": "Onze diensten",
+      "title": "Transport en logistiek onder één dak",
+      "description": "Van een enkele pallet tot volledige ladingen en magazijnbeheer: wij zorgen voor een oplossing op maat voor elke zending.",
+      "cta": "Alle diensten bekijken"
+    },
+    "why": {
+      "eyebrow": "Waarom Scaldis Logistics",
+      "title": "Betrouwbaar, bereikbaar en altijd op tijd",
+      "description": "Wij combineren een modern wagenpark met persoonlijke service. U spreekt altijd met een vaste contactpersoon.",
+      "items": {
+        "punctual": {
+          "title": "98% op tijd geleverd",
+          "description": "Strakke planning en realtime tracking houden uw leveringen voorspelbaar."
+        },
+        "coverage": {
+          "title": "Heel Europa",
+          "description": "Vaste routes in de Benelux en vrachtwagens naar meer dan 25 landen."
+        },
+        "fleet": {
+          "title": "Modern wagenpark",
+          "description": "85 vrachtwagens, Euro 6 en een groeiend aandeel elektrisch."
+        },
+        "support": {
+          "title": "Persoonlijke service",
+          "description": "Een vast aanspreekpunt en een dispatchlijn die 24/7 bereikbaar is."
+        }
+      }
+    },
+    "coverage": {
+      "eyebrow": "Ons werkgebied",
+      "title": "Van Antwerpen naar heel Europa",
+      "description": "Onze thuisbasis ligt in de haven van Antwerpen, met een tweede depot in Leuven. Van daaruit rijden we dagelijks door de Benelux en naar het zuiden, oosten en westen van Europa.",
+      "regions": [
+        "Benelux",
+        "Frankrijk",
+        "Duitsland",
+        "Verenigd Koninkrijk",
+        "Midden-Europa",
+        "Zuid-Europa"
+      ],
+      "cta": "Bekijk ons werkgebied"
+    },
+    "cta": {
+      "title": "Klaar om te verzenden?",
+      "description": "Vraag vrijblijvend een offerte aan. Binnen één werkdag ontvangt u een prijs op maat.",
+      "primary": "Offerte aanvragen",
+      "secondary": "Bel ons"
     }
   },
   "NotFoundPage": {

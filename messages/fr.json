@@ -60,19 +60,97 @@
   "A11y": {
     "skipToContent": "Aller au contenu"
   },
+  "Services": {
+    "items": {
+      "ftl": {
+        "title": "Camion complet (FTL)",
+        "summary": "Votre chargement complet de porte à porte, direct et sans transbordement."
+      },
+      "ltl": {
+        "title": "Groupage (LTL)",
+        "summary": "Des envois partiels intelligemment regroupés à un prix compétitif."
+      },
+      "distribution": {
+        "title": "Distribution Benelux",
+        "summary": "Des tournées fixes et des livraisons quotidiennes en Belgique, aux Pays-Bas et au Luxembourg."
+      },
+      "international": {
+        "title": "Transport international",
+        "summary": "Des camions vers la France, l'Allemagne et toute l'Europe, avec suivi complet."
+      },
+      "warehousing": {
+        "title": "Entreposage & distribution",
+        "summary": "Stockage temporaire, cross-docking et gestion des stocks sur nos sites."
+      },
+      "customs": {
+        "title": "Douane & documents",
+        "summary": "Dédouanement certifié AEO et documents CMR, entièrement gérés."
+      }
+    }
+  },
   "Home": {
     "hero": {
       "eyebrow": "Transport & logistique depuis 2004",
       "title": "Transport de marchandises fiable, en Belgique et en Europe.",
       "subtitle": "Du transport routier FTL et LTL à la distribution Benelux et au transport international : nous faisons circuler vos marchandises, avec 85 camions et 20 ans d'expérience.",
       "primaryCta": "Demander un devis",
-      "secondaryCta": "Nos services"
+      "secondaryCta": "Nos services",
+      "trust": "La confiance de plus de 200 entreprises depuis 20 ans."
     },
     "stats": {
       "years": "Ans d'expérience",
       "trucks": "Camions",
       "countries": "Pays",
       "onTime": "Livraisons à l'heure"
+    },
+    "services": {
+      "eyebrow": "Nos services",
+      "title": "Transport et logistique sous un même toit",
+      "description": "D'une simple palette aux chargements complets et à la gestion d'entrepôt : nous trouvons une solution sur mesure pour chaque envoi.",
+      "cta": "Voir tous les services"
+    },
+    "why": {
+      "eyebrow": "Pourquoi Scaldis Logistics",
+      "title": "Fiable, réactif et toujours à l'heure",
+      "description": "Nous associons une flotte moderne à un service personnalisé. Vous parlez toujours à un interlocuteur fixe.",
+      "items": {
+        "punctual": {
+          "title": "98 % livrés à l'heure",
+          "description": "Une planification rigoureuse et un suivi en temps réel rendent vos livraisons prévisibles."
+        },
+        "coverage": {
+          "title": "Toute l'Europe",
+          "description": "Des tournées fixes au Benelux et des camions vers plus de 25 pays."
+        },
+        "fleet": {
+          "title": "Flotte moderne",
+          "description": "85 camions, Euro 6 et une part croissante d'électrique."
+        },
+        "support": {
+          "title": "Service personnalisé",
+          "description": "Un interlocuteur dédié et une ligne de dispatching joignable 24h/24 et 7j/7."
+        }
+      }
+    },
+    "coverage": {
+      "eyebrow": "Notre couverture",
+      "title": "D'Anvers vers toute l'Europe",
+      "description": "Notre base se situe dans le port d'Anvers, avec un second dépôt à Louvain. De là, nous roulons chaque jour dans le Benelux et vers le sud, l'est et l'ouest de l'Europe.",
+      "regions": [
+        "Benelux",
+        "France",
+        "Allemagne",
+        "Royaume-Uni",
+        "Europe centrale",
+        "Europe du Sud"
+      ],
+      "cta": "Voir notre couverture"
+    },
+    "cta": {
+      "title": "Prêt à expédier ?",
+      "description": "Demandez un devis sans engagement. Vous recevez un prix sur mesure sous un jour ouvrable.",
+      "primary": "Demander un devis",
+      "secondary": "Appelez-nous"
     }
   },
   "NotFoundPage": {
