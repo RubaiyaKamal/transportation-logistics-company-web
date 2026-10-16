@@ -12,7 +12,11 @@
     "coverage": "Werkgebied",
     "news": "Nieuws",
     "contact": "Contact",
-    "quote": "Offerte aanvragen"
+    "quote": "Offerte aanvragen",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "terms": "Algemene voorwaarden",
+    "legalNotice": "Juridische informatie"
   },
   "Common": {
     "requestQuote": "Offerte aanvragen",
@@ -29,6 +33,32 @@
     "nl": "Nederlands",
     "fr": "Frans",
     "en": "Engels"
+  },
+  "Header": {
+    "menu": "Menu",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten"
+  },
+  "Footer": {
+    "blurb": "Transport- en logistiekpartner in Antwerpen. FTL- en LTL-vrachtvervoer, distributie in de Benelux en internationaal transport in heel Europa.",
+    "navTitle": "Navigatie",
+    "contactTitle": "Contact",
+    "legalTitle": "Juridisch",
+    "followTitle": "Volg ons",
+    "certificationsTitle": "Certificeringen",
+    "rights": "Alle rechten voorbehouden.",
+    "vatLabel": "BTW",
+    "kboLabel": "KBO"
+  },
+  "CookieConsent": {
+    "title": "Wij gebruiken cookies",
+    "description": "We gebruiken cookies om het verkeer te analyseren en uw ervaring te verbeteren. U kunt niet-essentiële cookies accepteren of weigeren.",
+    "accept": "Alles accepteren",
+    "decline": "Weigeren",
+    "privacy": "Privacybeleid"
+  },
+  "A11y": {
+    "skipToContent": "Naar de inhoud springen"
   },
   "Home": {
     "hero": {

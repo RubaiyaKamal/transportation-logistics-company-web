@@ -24,11 +24,13 @@ const sizes: Record<ButtonSize, string> = {
 export function buttonVariants({
   variant = "primary",
   size = "md",
+  className,
 }: {
   variant?: ButtonVariant;
   size?: ButtonSize;
+  className?: string;
 } = {}) {
-  return cn(base, variants[variant], sizes[size]);
+  return cn(base, variants[variant], sizes[size], className);
 }
 
 type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
@@ -44,7 +46,7 @@ export function Button({
 }: ButtonProps) {
   return (
     <button
-      className={cn(buttonVariants({ variant, size }), className)}
+      className={buttonVariants({ variant, size, className })}
       {...props}
     />
   );

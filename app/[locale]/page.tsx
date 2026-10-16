@@ -16,7 +16,7 @@ export default async function HomePage() {
   ] as const;
 
   return (
-    <main className="flex-1">
+    <>
       <Section className="pt-20 pb-12 sm:pt-28 sm:pb-16">
         <Container className="flex flex-col items-start gap-6">
           <Badge>{t("hero.eyebrow")}</Badge>
@@ -55,6 +55,6 @@ export default async function HomePage() {
           </dl>
         </Container>
       </Section>
-    </main>
+    </>
   );
 }

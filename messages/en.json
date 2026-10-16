@@ -12,7 +12,11 @@
     "coverage": "Coverage",
     "news": "News",
     "contact": "Contact",
-    "quote": "Get a quote"
+    "quote": "Get a quote",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "terms": "Terms",
+    "legalNotice": "Legal notice"
   },
   "Common": {
     "requestQuote": "Request a quote",
@@ -29,6 +33,32 @@
     "nl": "Dutch",
     "fr": "French",
     "en": "English"
+  },
+  "Header": {
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "Footer": {
+    "blurb": "Transport and logistics partner in Antwerp. FTL and LTL road freight, Benelux distribution and international transport across Europe.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "legalTitle": "Legal",
+    "followTitle": "Follow us",
+    "certificationsTitle": "Certifications",
+    "rights": "All rights reserved.",
+    "vatLabel": "VAT",
+    "kboLabel": "KBO"
+  },
+  "CookieConsent": {
+    "title": "We use cookies",
+    "description": "We use cookies to analyse traffic and improve your experience. You can accept or decline non-essential cookies.",
+    "accept": "Accept all",
+    "decline": "Decline",
+    "privacy": "Privacy policy"
+  },
+  "A11y": {
+    "skipToContent": "Skip to content"
   },
   "Home": {
     "hero": {

@@ -12,7 +12,11 @@
     "coverage": "Couverture",
     "news": "Actualités",
     "contact": "Contact",
-    "quote": "Demander un devis"
+    "quote": "Demander un devis",
+    "privacy": "Confidentialité",
+    "cookies": "Cookies",
+    "terms": "Conditions générales",
+    "legalNotice": "Mentions légales"
   },
   "Common": {
     "requestQuote": "Demander un devis",
@@ -29,6 +33,32 @@
     "nl": "Néerlandais",
     "fr": "Français",
     "en": "Anglais"
+  },
+  "Header": {
+    "menu": "Menu",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "Footer": {
+    "blurb": "Partenaire transport et logistique à Anvers. Transport routier FTL et LTL, distribution Benelux et transport international dans toute l'Europe.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "legalTitle": "Juridique",
+    "followTitle": "Suivez-nous",
+    "certificationsTitle": "Certifications",
+    "rights": "Tous droits réservés.",
+    "vatLabel": "TVA",
+    "kboLabel": "BCE"
+  },
+  "CookieConsent": {
+    "title": "Nous utilisons des cookies",
+    "description": "Nous utilisons des cookies pour analyser le trafic et améliorer votre expérience. Vous pouvez accepter ou refuser les cookies non essentiels.",
+    "accept": "Tout accepter",
+    "decline": "Refuser",
+    "privacy": "Politique de confidentialité"
+  },
+  "A11y": {
+    "skipToContent": "Aller au contenu"
   },
   "Home": {
     "hero": {
