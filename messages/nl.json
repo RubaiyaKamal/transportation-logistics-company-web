@@ -366,6 +366,66 @@
     },
     "mapNote": "Interactieve kaart van ons werkgebied — beschikbaar op aanvraag."
   },
+  "Forms": {
+    "required": "Dit veld is verplicht",
+    "invalidEmail": "Vul een geldig e-mailadres in",
+    "tooShort": "Deze waarde is te kort",
+    "consentRequired": "Gelieve dit aan te vinken om door te gaan",
+    "submit": "Verzenden",
+    "submitting": "Verzenden…",
+    "successTitle": "Bedankt!",
+    "successMessage": "Wij hebben uw bericht ontvangen en nemen binnen één werkdag contact met u op.",
+    "errorTitle": "Er ging iets mis",
+    "errorMessage": "Uw bericht kon niet worden verzonden. Probeer het opnieuw of bel ons.",
+    "sendAnother": "Nog een bericht versturen",
+    "labels": {
+      "name": "Naam",
+      "company": "Bedrijf",
+      "email": "E-mailadres",
+      "phone": "Telefoon",
+      "message": "Bericht",
+      "pickup": "Adres van ophaling",
+      "delivery": "Adres van levering",
+      "cargo": "Soort goederen",
+      "weight": "Gewicht (kg)",
+      "date": "Gewenste datum ophaling",
+      "service": "Dienst",
+      "servicePlaceholder": "Kies een dienst",
+      "optional": "optioneel",
+      "consent": "Ik geef toestemming om mijn gegevens te gebruiken om mijn aanvraag te beantwoorden."
+    }
+  },
+  "Contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Laten we over uw zending praten",
+      "description": "Bel ons, mail ons of verstuur het formulier hieronder. Wij antwoorden binnen één werkdag."
+    },
+    "details": {
+      "address": "Adres",
+      "phone": "Telefoon",
+      "email": "E-mail",
+      "hours": "Openingsuren"
+    },
+    "formTitle": "Stuur ons een bericht",
+    "formDescription": "Vertel ons kort wat u nodig heeft en wij nemen contact op.",
+    "mapNote": "Kaart: Noorderlaan 125, 2030 Antwerpen."
+  },
+  "Quote": {
+    "hero": {
+      "eyebrow": "Offerte",
+      "title": "Vraag een offerte aan",
+      "description": "Deel de details van uw zending en ontvang binnen één werkdag een prijs op maat."
+    },
+    "formTitle": "Details van de zending",
+    "formDescription": "Hoe meer u ons vertelt, hoe nauwkeuriger onze offerte.",
+    "asideTitle": "Wat gebeurt er daarna?",
+    "asidePoints": [
+      "Wij bekijken uw aanvraag en bepalen de beste route.",
+      "U ontvangt binnen één werkdag een offerte op maat.",
+      "Na uw goedkeuring plannen wij de ophaling en houden u op de hoogte."
+    ]
+  },
   "NotFoundPage": {
     "title": "Pagina niet gevonden",
     "description": "De pagina die u zoekt bestaat niet of werd verplaatst.",

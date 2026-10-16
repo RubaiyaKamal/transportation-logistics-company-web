@@ -366,6 +366,66 @@
     },
     "mapNote": "Interactive coverage map — available on request."
   },
+  "Forms": {
+    "required": "This field is required",
+    "invalidEmail": "Enter a valid email address",
+    "tooShort": "This value is too short",
+    "consentRequired": "Please accept to continue",
+    "submit": "Send",
+    "submitting": "Sending…",
+    "successTitle": "Thank you!",
+    "successMessage": "We received your message and will get back to you within one working day.",
+    "errorTitle": "Something went wrong",
+    "errorMessage": "Your message could not be sent. Please try again or call us.",
+    "sendAnother": "Send another message",
+    "labels": {
+      "name": "Full name",
+      "company": "Company",
+      "email": "Email address",
+      "phone": "Phone",
+      "message": "Message",
+      "pickup": "Pickup address",
+      "delivery": "Delivery address",
+      "cargo": "Type of goods",
+      "weight": "Weight (kg)",
+      "date": "Preferred pickup date",
+      "service": "Service",
+      "servicePlaceholder": "Select a service",
+      "optional": "optional",
+      "consent": "I agree that my details may be used to answer my request."
+    }
+  },
+  "Contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Let's talk about your shipment",
+      "description": "Call us, email us or send the form below. We reply within one working day."
+    },
+    "details": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Opening hours"
+    },
+    "formTitle": "Send us a message",
+    "formDescription": "Tell us briefly what you need and we'll get back to you.",
+    "mapNote": "Map: Noorderlaan 125, 2030 Antwerp."
+  },
+  "Quote": {
+    "hero": {
+      "eyebrow": "Quote",
+      "title": "Request a quote",
+      "description": "Share your shipment details and receive a tailored price within one working day."
+    },
+    "formTitle": "Shipment details",
+    "formDescription": "The more you tell us, the more accurate our quote.",
+    "asideTitle": "What happens next?",
+    "asidePoints": [
+      "We review your request and check the best route.",
+      "You receive a tailored quote within one working day.",
+      "After your go-ahead we plan the pickup and keep you informed."
+    ]
+  },
   "NotFoundPage": {
     "title": "Page not found",
     "description": "The page you are looking for doesn't exist or has been moved.",

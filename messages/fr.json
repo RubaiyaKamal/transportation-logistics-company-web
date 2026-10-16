@@ -366,6 +366,66 @@
     },
     "mapNote": "Carte interactive de notre couverture — disponible sur demande."
   },
+  "Forms": {
+    "required": "Ce champ est obligatoire",
+    "invalidEmail": "Saisissez une adresse e-mail valide",
+    "tooShort": "Cette valeur est trop courte",
+    "consentRequired": "Merci de cocher cette case pour continuer",
+    "submit": "Envoyer",
+    "submitting": "Envoi…",
+    "successTitle": "Merci !",
+    "successMessage": "Nous avons bien reçu votre message et vous répondrons sous un jour ouvrable.",
+    "errorTitle": "Une erreur est survenue",
+    "errorMessage": "Votre message n'a pas pu être envoyé. Réessayez ou appelez-nous.",
+    "sendAnother": "Envoyer un autre message",
+    "labels": {
+      "name": "Nom complet",
+      "company": "Entreprise",
+      "email": "Adresse e-mail",
+      "phone": "Téléphone",
+      "message": "Message",
+      "pickup": "Adresse d'enlèvement",
+      "delivery": "Adresse de livraison",
+      "cargo": "Type de marchandises",
+      "weight": "Poids (kg)",
+      "date": "Date d'enlèvement souhaitée",
+      "service": "Service",
+      "servicePlaceholder": "Choisissez un service",
+      "optional": "facultatif",
+      "consent": "J'accepte que mes données soient utilisées pour répondre à ma demande."
+    }
+  },
+  "Contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Parlons de votre envoi",
+      "description": "Appelez-nous, écrivez-nous ou utilisez le formulaire ci-dessous. Nous répondons sous un jour ouvrable."
+    },
+    "details": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "hours": "Heures d'ouverture"
+    },
+    "formTitle": "Envoyez-nous un message",
+    "formDescription": "Dites-nous brièvement ce dont vous avez besoin et nous vous répondrons.",
+    "mapNote": "Carte : Noorderlaan 125, 2030 Anvers."
+  },
+  "Quote": {
+    "hero": {
+      "eyebrow": "Devis",
+      "title": "Demander un devis",
+      "description": "Partagez les détails de votre envoi et recevez un prix sur mesure sous un jour ouvrable."
+    },
+    "formTitle": "Détails de l'envoi",
+    "formDescription": "Plus vous nous en dites, plus notre devis sera précis.",
+    "asideTitle": "Et ensuite ?",
+    "asidePoints": [
+      "Nous analysons votre demande et déterminons le meilleur itinéraire.",
+      "Vous recevez un devis sur mesure sous un jour ouvrable.",
+      "Après votre accord, nous planifions l'enlèvement et vous tenons informé."
+    ]
+  },
   "NotFoundPage": {
     "title": "Page introuvable",
     "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
