@@ -1,0 +1,53 @@
+{
+  "Metadata": {
+    "title": "Scaldis Logistics — Betrouwbaar vrachtvervoer in België en Europa",
+    "description": "Transport- en logistiekbedrijf in Antwerpen. FTL- en LTL-vrachtvervoer, Benelux-distributie en internationaal transport in heel Europa. Vraag vrijblijvend een offerte aan."
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "Over ons",
+    "services": "Diensten",
+    "fleet": "Wagenpark",
+    "team": "Team",
+    "coverage": "Werkgebied",
+    "news": "Nieuws",
+    "contact": "Contact",
+    "quote": "Offerte aanvragen"
+  },
+  "Common": {
+    "requestQuote": "Offerte aanvragen",
+    "callUs": "Bel ons",
+    "whatsapp": "WhatsApp",
+    "learnMore": "Meer informatie",
+    "readMore": "Lees meer",
+    "getInTouch": "Neem contact op",
+    "openingHours": "Openingsuren",
+    "backHome": "Terug naar home"
+  },
+  "LocaleSwitcher": {
+    "label": "Taal",
+    "nl": "Nederlands",
+    "fr": "Frans",
+    "en": "Engels"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Transport & logistiek sinds 2004",
+      "title": "Betrouwbaar vrachtvervoer, in heel België en Europa.",
+      "subtitle": "Van FTL- en LTL-vrachtvervoer tot Benelux-distributie en internationaal transport: wij houden uw goederen in beweging, met 85 vrachtwagens en 20 jaar ervaring.",
+      "primaryCta": "Offerte aanvragen",
+      "secondaryCta": "Onze diensten"
+    },
+    "stats": {
+      "years": "Jaar ervaring",
+      "trucks": "Vrachtwagens",
+      "countries": "Landen",
+      "onTime": "Op tijd geleverd"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Pagina niet gevonden",
+    "description": "De pagina die u zoekt bestaat niet of werd verplaatst.",
+    "backHome": "Terug naar home"
+  }
+}

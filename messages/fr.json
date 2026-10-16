@@ -1,0 +1,53 @@
+{
+  "Metadata": {
+    "title": "Scaldis Logistics — Transport de marchandises fiable en Belgique et en Europe",
+    "description": "Entreprise de transport et de logistique à Anvers. Transport routier FTL et LTL, distribution Benelux et transport international dans toute l'Europe. Demandez un devis sans engagement."
+  },
+  "Nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "fleet": "Flotte",
+    "team": "Équipe",
+    "coverage": "Couverture",
+    "news": "Actualités",
+    "contact": "Contact",
+    "quote": "Demander un devis"
+  },
+  "Common": {
+    "requestQuote": "Demander un devis",
+    "callUs": "Appelez-nous",
+    "whatsapp": "WhatsApp",
+    "learnMore": "En savoir plus",
+    "readMore": "Lire la suite",
+    "getInTouch": "Nous contacter",
+    "openingHours": "Heures d'ouverture",
+    "backHome": "Retour à l'accueil"
+  },
+  "LocaleSwitcher": {
+    "label": "Langue",
+    "nl": "Néerlandais",
+    "fr": "Français",
+    "en": "Anglais"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Transport & logistique depuis 2004",
+      "title": "Transport de marchandises fiable, en Belgique et en Europe.",
+      "subtitle": "Du transport routier FTL et LTL à la distribution Benelux et au transport international : nous faisons circuler vos marchandises, avec 85 camions et 20 ans d'expérience.",
+      "primaryCta": "Demander un devis",
+      "secondaryCta": "Nos services"
+    },
+    "stats": {
+      "years": "Ans d'expérience",
+      "trucks": "Camions",
+      "countries": "Pays",
+      "onTime": "Livraisons à l'heure"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Page introuvable",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "backHome": "Retour à l'accueil"
+  }
+}

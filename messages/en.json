@@ -1,0 +1,53 @@
+{
+  "Metadata": {
+    "title": "Scaldis Logistics — Reliable freight across Belgium and Europe",
+    "description": "Transport and logistics company in Antwerp. FTL and LTL road freight, Benelux distribution and international transport across Europe. Request a free quote."
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "fleet": "Fleet",
+    "team": "Team",
+    "coverage": "Coverage",
+    "news": "News",
+    "contact": "Contact",
+    "quote": "Get a quote"
+  },
+  "Common": {
+    "requestQuote": "Request a quote",
+    "callUs": "Call us",
+    "whatsapp": "WhatsApp",
+    "learnMore": "Learn more",
+    "readMore": "Read more",
+    "getInTouch": "Get in touch",
+    "openingHours": "Opening hours",
+    "backHome": "Back to home"
+  },
+  "LocaleSwitcher": {
+    "label": "Language",
+    "nl": "Dutch",
+    "fr": "French",
+    "en": "English"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Transport & logistics since 2004",
+      "title": "Reliable freight, in Belgium and across Europe.",
+      "subtitle": "From FTL and LTL road freight to Benelux distribution and international transport: we keep your goods moving, with 85 trucks and 20 years of experience.",
+      "primaryCta": "Request a quote",
+      "secondaryCta": "Our services"
+    },
+    "stats": {
+      "years": "Years of experience",
+      "trucks": "Trucks",
+      "countries": "Countries",
+      "onTime": "On-time delivery"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "The page you are looking for doesn't exist or has been moved.",
+    "backHome": "Back to home"
+  }
+}
